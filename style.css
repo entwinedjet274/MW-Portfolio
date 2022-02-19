@@ -1,13 +1,13 @@
 body {
   background-image: url("https://media.istockphoto.com/photos/beautiful-wave-lines-background-blue-purple-abstract-copy-space-picture-id1277127522?b=1&k=20&m=1277127522&s=612x612&w=0&h=TH0E3jT8OsNzASTO3B0il7GQPXcHIzq3zH3E9rXK3X4=");
   background-repeat: no-repeat;
- background-position: contain;
-background-size: 160%;
+ background-position: center;
+background-size: 200%;
   color: white;
 Font-Family: 'Source Sans Pro', Sans-Serif;
 Font-Size: 16px;
-padding: 80px;
-
+padding: 10px;
+margin:0px;
 
 }
 
@@ -27,13 +27,13 @@ display: inline;
 
 h1 {
  Font-Family: 'Playfair Display', Serif;
-Font-Size: 48px;
+Font-Size: 30px;
   text-align: center;
 font-size: 400%;
 }
 
 h2 {
-  font-size: 250%;
+  font-size: 20px;
   Font-Family: 'Playfair Display', Serif;
 }
 
