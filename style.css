@@ -93,7 +93,7 @@ p {
 
 @media (min-width: 25rem) {
   body {
-    background-size: 100% 100%;
+    background-size: 200% 200%;
     text-align: center;
     height: 40rem;
   }
@@ -113,7 +113,7 @@ p {
 
 @media (min-width: 50rem) {
   body {
-    background-size: 100% 100%;
+    background-size: 200% 200%;
     text-align: center;
     height: 40rem;
   }
