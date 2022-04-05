@@ -76,9 +76,9 @@ p {
 
 @media (min-width: 13rem) {
   body {
-    background-size: 100% 100%;
+    background-size: max-content, 100%;
     text-align: center;
-    height: contain;
+   
   }
 
   header {
@@ -93,9 +93,9 @@ p {
 
 @media (min-width: 25rem) {
   body {
-    background-size: 200% 200%;
+    background-size: max-content, 100%;
     text-align: center;
-    height: contain;
+    
   }
 
   header {
@@ -113,9 +113,9 @@ p {
 
 @media (min-width: 50rem) {
   body {
-    background-size: 200% 200%;
+    background-size: max-content, 100%;
     text-align: center;
-    height: contain;
+    
   }
 
   header {
