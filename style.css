@@ -78,6 +78,7 @@ p {
   body {
     background-size: 100% 100%;
     text-align: center;
+    height: 40rem;
   }
 
   header {
@@ -94,6 +95,7 @@ p {
   body {
     background-size: 100% 100%;
     text-align: center;
+    height: 40rem;
   }
 
   header {
@@ -103,7 +105,29 @@ p {
 
   #lang {
     margin: 0rem 7rem 0rem 7rem;
+
   }
 
 
 }
+
+@media (min-width: 50rem) {
+  body {
+    background-size: 100% 100%;
+    text-align: center;
+    height: 40rem;
+  }
+
+  header {
+    text-align: center;
+    display: block;
+  }
+
+  #lang {
+    margin: 0rem 38rem 0rem 38rem;
+
+  }
+
+
+}
+
