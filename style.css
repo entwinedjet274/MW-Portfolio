@@ -74,3 +74,36 @@ p {
  }
 
 
+@media (min-width: 13rem) {
+  body {
+    background-size: 100% 100%;
+    text-align: center;
+  }
+
+  header {
+    text-align: center;
+    display: block;
+  }
+ 
+  #lang {
+    margin: 0rem 5rem 0rem 5rem;
+  }
+}
+
+@media (min-width: 25rem) {
+  body {
+    background-size: 100% 100%;
+    text-align: center;
+  }
+
+  header {
+    text-align: center;
+    display: block;
+  }
+
+  #lang {
+    margin: 0rem 7rem 0rem 7rem;
+  }
+
+
+}
