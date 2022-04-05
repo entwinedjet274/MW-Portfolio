@@ -78,7 +78,7 @@ p {
   body {
     background-size: 100% 100%;
     text-align: center;
-    height: max-content;
+    height: fill-content;
   }
 
   header {
@@ -95,7 +95,7 @@ p {
   body {
     background-size: 200% 200%;
     text-align: center;
-    height: max-content;
+    height: fill-content;
   }
 
   header {
@@ -115,7 +115,7 @@ p {
   body {
     background-size: 200% 200%;
     text-align: center;
-    height: max-content;
+    height: fill-content;
   }
 
   header {
