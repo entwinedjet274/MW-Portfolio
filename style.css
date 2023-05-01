@@ -19,6 +19,10 @@ padding:0px;
 margin:0px;
 box-sizing: border-box;
 justify-content: space-around;
+background-color: black;
+border: solid;
+width: ;
+height:
 }
 
 li {
@@ -74,7 +78,7 @@ p {
  }
 
 
-@media (min-width: 13rem) {
+//*@media (min-width: 13rem) {
   body {
     background-size: max-content, 100%;
     text-align: center;
