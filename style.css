@@ -1,9 +1,9 @@
-body {
-  background-image: url("https://media.istockphoto.com/photos/beautiful-wave-lines-background-blue-purple-abstract-copy-space-picture-id1277127522?b=1&k=20&m=1277127522&s=612x612&w=0&h=TH0E3jT8OsNzASTO3B0il7GQPXcHIzq3zH3E9rXK3X4=");
-  background-repeat: no-repeat;
- background-position: center;
+  body {
+background-image: url("https://media.istockphoto.com/photos/beautiful-wave-lines-background-blue-purple-abstract-copy-space-picture-id1277127522?b=1&k=20&m=1277127522&s=612x612&w=0&h=TH0E3jT8OsNzASTO3B0il7GQPXcHIzq3zH3E9rXK3X4=");
+background-repeat: no-repeat;
+background-position: center;
 background-size: 200%;
-  color: white;
+color: white;
 Font-Family: 'Source Sans Pro', Sans-Serif;
 Font-Size: 16px;
 padding: 0px;
@@ -11,12 +11,12 @@ margin:0px;
 
 }
 
-header {
-  display: flex;
+  header {
+display: flex;
 word-spacing: 5px;
 text-align: right;
-padding:0px;
-margin:10px;
+padding: 10px;
+margin:0px;
 box-sizing: border-box;
 justify-content: fill;
 background-color: white;
@@ -26,32 +26,32 @@ height:
 color:  black;
 }
 
-li {
+  li {
 display: inline;
 }
 
-h1 {
- Font-Family: 'Playfair Display', Serif;
+  h1 {
+Font-Family: 'Playfair Display', Serif;
 Font-Size: 30px;
-  text-align: center;
+text-align: center;
 font-size: 400%;
 }
 
-h2 {
-  font-size: 20px;
-  Font-Family: 'Playfair Display', Serif;
+  h2 {
+font-size: 20px;
+Font-Family: 'Playfair Display', Serif;
 }
 
-#lang {
- background-image: url("https://www.freepnglogos.com/uploads/javascript/logo-html-5-css-javascript-source-code-for-the-taking-23.png");
- height: 80px;
- width: 200px;
- background-repeat: no-repeat;
- background-position: contain;
- background-size: 80%; 
+  #lang {
+background-image: url("https://www.freepnglogos.com/uploads/javascript/logo-html-5-css-javascript-source-code-for-the-taking-23.png");
+height: 80px;
+width: 200px;
+background-repeat: no-repeat;
+background-position: contain;
+background-size: 80%; 
 }
 
-button {
+  button {
 display: inline;
 position: bottom;
 background-color: black;
@@ -59,23 +59,23 @@ border-radius: 30px;
 border-color: black;
 }
 
-a{
- text-decoration: none;
-  color: white;
-  Font-Family: 'Source Sans Pro', Sans-Serif;
+  a{
+text-decoration: none;
+color: white;
+Font-Family: 'Source Sans Pro', Sans-Serif;
 Font-Size: 16px;
   }
 
-p {
-  font-size: 120%;
+  p {
+font-size: 120%;
 }
 
-.box {
-   display: inline-block;
-   position: center;
-   margin: 10px;
-   position: center;
-   text-align: center;
+  .box {
+display: inline-block;
+position: center;
+margin: 10px;
+position: center;
+text-align: center;
  }
 
 
