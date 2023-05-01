@@ -79,9 +79,11 @@ position: center;
 text-align: center;
  }
 
-  div.page {
+  #page {
 padding: 5px;
 margin: 5px;
+border: solid;
+border-color: white; 
  }
 
 //*@media (min-width: 13rem) {
