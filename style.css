@@ -80,10 +80,9 @@ text-align: center;
  }
 
   #page {
-padding: 1em;
+padding: 0em;
 margin: 5em;
-border: solid;
-border-color: white; 
+ 
  }
 
 //*@media (min-width: 13rem) {
