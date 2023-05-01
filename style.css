@@ -80,8 +80,8 @@ text-align: center;
  }
 
   #page {
-padding: 5px;
-margin: 5px;
+padding: 1em;
+margin: 5em;
 border: solid;
 border-color: white; 
  }
