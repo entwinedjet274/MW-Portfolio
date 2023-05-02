@@ -21,9 +21,8 @@ box-sizing: border-box;
 justify-content: fill;
 background-color: white;
 border: solid;
-width: ;
-height:;
-color:  black;
+width: auto;
+height: auto;
 }
 
   li {
