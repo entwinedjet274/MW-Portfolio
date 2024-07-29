@@ -8,7 +8,8 @@ Font-Family: 'Source Sans Pro', Sans-Serif;
 Font-Size: 16px;
 padding: 0px;
 margin:0px;
-
+width:auto;
+height:auto;
 }
 
   header {
@@ -85,7 +86,7 @@ margin: 5em;
  
  }
 
-//*@media (min-width: 13rem) {
+/*@media (min-width: 13rem) {
   body {
     background-size: max-content, 100%;
     text-align: center;
@@ -142,3 +143,4 @@ margin: 5em;
 
 }
 
+*/
